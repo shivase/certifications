@@ -19,15 +19,15 @@
 | 2009/4  | Oracle Master Gold DBA 10g                       |     |
 | 2010/?  | JP1認定エンジニア試験                                     |     |
 | 2011/3  | Cisco Certified Network Professional (CCNP)      | 失効  |
-| 2018/11 | AWS認定 Certified Solutions Architect – Associate  | 失効  |
+| 2018/11 | AWS Certified Solutions Architect – Associate  | 失効  |
 | 2018/11 | JDLA Deep Learning for GENERAL(G検定)              |     |
-| 2019/2  | AWS認定 Certified Developer – Associate            | 失効  |
-| 2019/3  | AWS認定 Certified SysOps Administrator – Associate | 失効  |
+| 2019/2  | AWS Certified Developer – Associate            | 失効  |
+| 2019/3  | AWS Certified SysOps Administrator – Associate | 失効  |
 | 2022/9  | BTA Certified Blockchain Business Foundations    |     |
 | 2022/9  | BTA Certified Blockchain Developer - Ethereum    |     |
 | 2023/11 | Python3エンジニア認定試験（基礎）                             |     |
 | 2024/1  | データサイエンティスト検定 リテラシーレベル 2023                      |     |
-| 2024/3  | AWS認定 Certified Solutions Architect – Associate(SAA-C03)     | 再取得 |
+| 2024/3  | AWS Certified Solutions Architect – Associate(SAA-C03)     | 再取得 |
 | 2024/3  | HashiCorp Certified Terraform Associate (003)   |     |
 
 # 取得資格一覧（その他）
