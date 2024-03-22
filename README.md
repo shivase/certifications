@@ -12,7 +12,7 @@
 | 2007/11 | Oracle Master Silver DBA 10g                     |     |
 | 2007/?  | NTTコミュニケーションズ インターネット検定 .com Master ★            |     |
 | 2007/?  | NTTコミュニケーションズ インターネット検定 .com Master ★★           |     |
-| 2008/4  | IPA データベーススペシャリスト                                |     |
+| 2008/4  | 情報処理技術者試験 データベーススペシャリスト                                |     |
 | 2008/8  | Cisco Certified Network Associate (CCNA)         | 失効  |
 | 2008/10 | 情報処理技術者試験 セキュリティスペシャリスト                          |     |
 | 2009/2  | Oracle Master Silver PL/SQL Developer            |     |
