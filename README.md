@@ -30,6 +30,7 @@
 | 2024/1  | データサイエンティスト検定 リテラシーレベル 2023                      |     |
 | 2024/3  | AWS Certified Solutions Architect – Associate(SAA-C03)     | 再取得 |
 | 2024/3  | HashiCorp Certified Terraform Associate (003)   |     |
+| 2024/4  | GitHub Foundations   |     |
 
 # 取得資格一覧（その他）
 
