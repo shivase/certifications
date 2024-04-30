@@ -32,6 +32,7 @@
 | 2024/3  | HashiCorp Certified Terraform Associate (003)   |     |
 | 2024/4  | GitHub Certification - GitHub Foundations   |     |
 | 2024/4  | GitHub Certification - GitHub Actions   |     |
+| 2024/4  | GitHub Certification - GitHub Administration   |     |
 
 # 取得資格一覧（その他）
 
