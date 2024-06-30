@@ -33,6 +33,7 @@
 | 2024/4  | GitHub Certification - GitHub Foundations   |     |
 | 2024/4  | GitHub Certification - GitHub Actions   |     |
 | 2024/4  | GitHub Certification - GitHub Administration   |     |
+| 2024/6  | JDLA Generative AI Test 2024 #1 | |
 
 # 取得資格一覧（その他）
 
