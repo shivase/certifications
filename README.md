@@ -35,6 +35,8 @@
 | 2024/4  | GitHub Certification - GitHub Administration   |     |
 | 2024/6  | JDLA Generative AI Test 2024 #1 | |
 | 2024/8  | GitHub Certification - GitHub Advanced Security   |     |
+| 2024/12  | Google Cloud Certified Professional Cloud Architect   |     |
+
 
 # 取得資格一覧（その他）
 
