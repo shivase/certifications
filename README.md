@@ -37,6 +37,7 @@
 | 2024/8  | GitHub Certification - GitHub Advanced Security   |     |
 | 2024/12  | Google Cloud Certified Professional Cloud Architect   |     |
 | 2024/12  | Google Cloud Certified Professional Cloud Developer   |     |
+| 2025/4   | Professional Scrum Master™ I (PSM I) | |
 
 
 # 取得資格一覧（その他）
